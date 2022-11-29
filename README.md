@@ -1,6 +1,7 @@
 # Advance-image-scrapper
 
 By this application user can download upto 500 number of images from google at the mentioned time and date by the user.
+This project uses selenium tool to scrap the image link from google and it store the link to the cassandra database and then download image message will be send to the email address of the user and then from that link user can download all the link.   
 
 The home page of this application will look like:
 
